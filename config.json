@@ -1,10 +1,10 @@
 {
   "timeZone": "Asia/Dhaka",
-  "prefix": ".",
+  "prefix": "/",
   "language": "en",
   "api": "http://65.109.80.126:20409/aryan",
   "baby": "https://nix-baby-apis.vercel.app",
-  "nickNameBot": "Goat-Bot-V2",
+  "nickNameBot": "«⌈ ❰ 𝐈.𝐌.𝐒  ✨ 𝐀𝐃𝐌𝐈𝐍 🍒   ❿ ❱ ⌉»",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -50,11 +50,12 @@
   "reactBy": {
     "delete": [
       "😠",
-      "😾"
+      "😾",
+      "🤦‍♂️"
     ],
     "kick": [
       "🎌",
-      "⚠️"
+      "🦆"
     ]
   },
   "whiteListMode": {
